@@ -1,2 +1,2 @@
 # Java
-Inheritance program in Java
+program of java
